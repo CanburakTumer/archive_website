@@ -48,6 +48,9 @@ a:visited {
 table, th, td {
     border: 1px solid;
     border-collapse: collapse;
+}
+
+tr {
     width: 100%;
 }
 

@@ -2,6 +2,11 @@
 title: Canburak Tumer's Blog Archive
 style: ../styles/post.css
 tiny>>>
+
+[Back to homepage](../index.html)
+
+---
+
 # Test post with Tiniest Static Website Generator.
 
 This is only a test post to try out my own [Static Website Generator.](https://github.com/CanburakTumer/tiniest_static_website/tree/main)  

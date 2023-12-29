@@ -16,6 +16,11 @@ All notes are my personal opinions and does not relate to my current or former e
 |:-----|-----:|:-----|
 |2023-12-29| EN | [Moving to 2024](posts/move_to_2024.html)|
 |2023-12-28| EN | [Test Post](posts/test_post.html)|
+|2023-10-07| EN | [Passive Income is a lie](posts/passive_income_is_lie.html)|
+|2023-09-23| EN | [Email etiquette](posts/email_etiquette.html)|
+|2023-09-09| EN | [Bug Report to SunExpress](posts/bug_report_to_sunexpress.html)|
+|2023-08-26| EN | [How being inactive on Medium affects views](posts/being_inactive_medium.html)|
+|2023-06-18| EN | [Performance evaluation styles](posts/performance_evaluation.html)|
 
 
 ---

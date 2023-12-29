@@ -1,1 +1,63 @@
-h1 {color: red}
+/* heading styles */
+h1 {
+    color: darkolivegreen;
+}
+
+h2 {
+    color: darkgreen;
+    text-indent: 30px;
+}
+
+h3 {
+    color: darkgreen;
+    text-indent: 30px;
+}
+
+h4 {
+    color: darkgreen;
+    text-indent: 30px;
+}
+
+h5 {
+    color: darkgreen;
+    text-indent: 30px;
+}
+
+/* paragraph styles */
+p {
+    text-indent: 30px;
+    text-align: justify;
+}
+
+/* text styles */
+
+
+/* hyperlink styles */
+a:link {
+    color: darkcyan;
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkgray;
+    text-decoration: none;
+}
+
+
+/* table styles */
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+tr {
+    width: 100%;
+}
+
+tr:hover{
+    background-color: bisque;
+}
+
+tr:nth-child(even) {
+    background-color: lemonchiffon;
+}

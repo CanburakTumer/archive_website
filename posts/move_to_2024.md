@@ -3,6 +3,10 @@ title: Moving to 2024
 style: ../styles/post.css
 tiny>>>
 
+[Back to homepage](../index.html)
+
+---
+
 # Moving to 2024 
 
 Here is the traditional end-of-the-year and New Year’s expectations post.
