@@ -1,13 +1,31 @@
 /* heading styles */
-h1 {color: darkolivegreen;}
-h2 {color: darkgreen;}
-h3 {color: darkgreen;}
-h4 {color: darkgreen;}
-h5 {color: darkgreen;}
+h1 {
+    color: darkolivegreen;
+}
+
+h2 {
+    color: darkgreen;
+    text-indent: 30px;
+}
+
+h3 {
+    color: darkgreen;
+    text-indent: 30px;
+}
+
+h4 {
+    color: darkgreen;
+    text-indent: 30px;
+}
+
+h5 {
+    color: darkgreen;
+    text-indent: 30px;
+}
 
 /* paragraph styles */
 p {
-    text-indent: 50px;
+    text-indent: 30px;
     text-align: justify;
 }
 
@@ -21,7 +39,7 @@ a:link {
 }
 
 a:visited {
-    color: cyan;
+    color: darkgray;
     text-decoration: none;
 }
 
@@ -30,12 +48,13 @@ a:visited {
 table, th, td {
     border: 1px solid;
     border-collapse: collapse;
+    width: 100%;
 }
 
 tr:hover{
     background-color: bisque;
 }
 
-tr:nth-child(odd) {
+tr:nth-child(even) {
     background-color: lemonchiffon;
 }
