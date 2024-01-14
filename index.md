@@ -21,6 +21,3 @@ All notes are my personal opinions and does not relate to my current or former e
 |2023-09-09| EN | [Bug Report to SunExpress](posts/bug_report_to_sunexpress.html)|
 |2023-08-26| EN | [How being inactive on Medium affects views](posts/being_inactive_medium.html)|
 |2023-06-18| EN | [Performance evaluation styles](posts/performance_evaluation.html)|
-
-
----
